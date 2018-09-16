@@ -1,1 +1,0 @@
-document.getElementById('adid').innerHTML = '1';
